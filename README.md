@@ -1,5 +1,7 @@
 # DETI Store
 
+Nota: 19.5
+
 ## Description
 
 Welcome to DETI Store, your one-stop destination for a feature-rich online shopping experience. We've integrated a diverse array of functionalities to ensure your shopping is both effortless and convenient. Here's an overview of what you can anticipate:
